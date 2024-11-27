@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "AutoShack Calculator",
+    "version": "1.0",
+    "description": "A price calculator for AutoShack, including HST and warranty calculations.",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": {
+      }
+    },
+    "permissions": ["storage"]
+  }
+  
